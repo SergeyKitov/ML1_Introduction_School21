@@ -3,5 +3,5 @@ https://www.kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries/d
 
 After downloading, place the files like this:
 
-  data/train.json
-  data/test.json
+data/train.json,
+data/test.json
